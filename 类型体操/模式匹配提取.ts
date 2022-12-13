@@ -25,7 +25,8 @@
         : Arr extends [unknown, ...infer Rest] ? Rest : never;
 
 
-字符串匹配
+//字符串匹配
+
 //判断字符串前缀开头
     type StartsWith<Str extends string, Prefix extends string> = 
     Str extends `${Prefix}${string}` ? true : false;
@@ -40,5 +41,25 @@
             ? `${Prefix}${To}${Suffix}` : Str;
 
 
+//去除空白字符串
+    type TrimStrRight<Str extends string> = 
+    Str extends `${infer Rest}${' ' | '\n' | '\t'}` 
+        ? TrimStrRight<Rest> : Str;
+
+    type TrimStrLeft<Str extends string> = 
+    Str extends `${' ' | '\n' | '\t'}${infer Rest}` 
+        ? TrimStrLeft<Rest> : Str;
 
 
+//获取函数返回值
+    type GetReturnType<Func extends Function> = 
+    Func extends (...args: any[]) => infer ReturnType 
+        ? ReturnType : never;
+
+
+//获取函数参数类型
+    type GetConstructorParameters<
+    ConstructorType extends new (...args: any) => any
+    > = ConstructorType extends new (...args: infer ParametersType) => any
+    ? ParametersType
+    : never;
