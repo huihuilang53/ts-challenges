@@ -2,13 +2,14 @@
 > typescript类型体操 
 
 建议初学者先学完基础的ts语法，然后去看完神光的TypeScript 类型体操通关秘籍小册，再开刷类型体操
+
 部分体操题型来源：
-30kstars项目github地址：
+* 30kstars项目github地址：
 https://github.com/huihuilang53/type-challenges
-gitee地址(github要翻墙，没翻墙的同学可以去这个链接)：
+* gitee地址(github要翻墙，没翻墙的同学可以去这个链接)：
 https://gitee.com/JiegangWu/type-challenges#/JiegangWu/type-challenges/blob/main/questions/00009-medium-deep-readonly/README.zh-CN.md
 
-体操广场：
+* 体操广场：
 https://www.typescriptlang.org/play
 
 刷题记录：
