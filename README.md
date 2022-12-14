@@ -13,12 +13,15 @@ https://gitee.com/JiegangWu/type-challenges#/JiegangWu/type-challenges/blob/main
 https://www.typescriptlang.org/play
 
 刷题记录：
+###六个套路
 - [套路1-模式匹配提取](https://github.com/huihuilang53/ts-challenges/issues/1)
 - [套路2-重构造做变化](https://github.com/huihuilang53/ts-challenges/issues/2)
 - [套路3-递归复用做循环](https://github.com/huihuilang53/ts-challenges/issues/3)
 - [套路4-数组长度做计数](https://github.com/huihuilang53/ts-challenges/issues/4)
 - [套路5-联合类型可分散](https://github.com/huihuilang53/ts-challenges/issues/5)
 - [套路6-特殊特性](https://github.com/huihuilang53/ts-challenges/issues/6)
+
+
 - [pick](https://github.com/huihuilang53/ts-challenges/issues/7)
 - [readonly](https://github.com/huihuilang53/ts-challenges/issues/8)
 - [元组转对象](https://github.com/huihuilang53/ts-challenges/issues/9)
