@@ -19,8 +19,10 @@ https://github.com/huihuilang53/type-challenges
 ![image](https://user-images.githubusercontent.com/71922541/207506201-253e3590-aa18-4138-b6ba-e6c7dbf8d320.png)
 
 ![image](https://user-images.githubusercontent.com/71922541/207506239-66b940eb-5257-4451-86dc-9db2b97ee184.png)
+更多的内置高级类型就不列举了，可以看下这篇文章，孰能生巧，没必要记那么多
+https://juejin.cn/post/7071549789384474637
 
-
+![image](https://user-images.githubusercontent.com/71922541/207506558-48c91f76-6732-4655-b416-b5c4d62437d1.png)
 
 
 
