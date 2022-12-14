@@ -21,7 +21,7 @@ https://www.typescriptlang.org/play
 - [套路5-联合类型可分散](https://github.com/huihuilang53/ts-challenges/issues/5)
 - [套路6-特殊特性](https://github.com/huihuilang53/ts-challenges/issues/6)
 
-
+### 类型体操
 - [pick](https://github.com/huihuilang53/ts-challenges/issues/7)
 - [readonly](https://github.com/huihuilang53/ts-challenges/issues/8)
 - [元组转对象](https://github.com/huihuilang53/ts-challenges/issues/9)
