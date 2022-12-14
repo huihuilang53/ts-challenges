@@ -20,12 +20,37 @@ https://www.typescriptlang.org/play
 - [套路5-联合类型可分散](https://github.com/huihuilang53/ts-challenges/issues/5)
 - [套路6-特殊特性](https://github.com/huihuilang53/ts-challenges/issues/6)
 - [pick](https://github.com/huihuilang53/ts-challenges/issues/7)
-- [套路1-模式匹配提取](https://github.com/huihuilang53/ts-challenges/issues/8)
-- [套路1-模式匹配提取](https://github.com/huihuilang53/ts-challenges/issues/9)
+- [readonly](https://github.com/huihuilang53/ts-challenges/issues/8)
+- [元组转对象](https://github.com/huihuilang53/ts-challenges/issues/9)
+- [元组长度](https://github.com/huihuilang53/ts-challenges/issues/10)
+- [parameters](https://github.com/huihuilang53/ts-challenges/issues/11)
+- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/12)
+- [include](https://github.com/huihuilang53/ts-challenges/issues/13)
+- [if](https://github.com/huihuilang53/ts-challenges/issues/14)
+- [first](https://github.com/huihuilang53/ts-challenges/issues/15)
+- [exclude](https://github.com/huihuilang53/ts-challenges/issues/16)
+- [concat](https://github.com/huihuilang53/ts-challenges/issues/17)
+- [返回类型](https://github.com/huihuilang53/ts-challenges/issues/18)
+- [readonly2](https://github.com/huihuilang53/ts-challenges/issues/19)
+- [Omit](https://github.com/huihuilang53/ts-challenges/issues/20)
+- [Deepreadonly](https://github.com/huihuilang53/ts-challenges/issues/21)
+
+
+<!-- - [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
+- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
+- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
+- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
+- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
+- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
+- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
+- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
+- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
+- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7) -->
 
 
 
 
+include
 
 
 ## 语法与踩坑总结：
