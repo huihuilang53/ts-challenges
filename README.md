@@ -8,10 +8,17 @@ https://github.com/huihuilang53/type-challenges
 刷题记录：
 
 
+
+
+## 语法与踩坑总结：
+希望对大家有所帮助
 ![image](https://user-images.githubusercontent.com/71922541/207505952-a33468bf-c3e5-4ab1-b627-482167b51841.png)
 
+![image](https://user-images.githubusercontent.com/71922541/207506153-a25be527-1b8f-460a-84a8-158755cca3c9.png)
 
+![image](https://user-images.githubusercontent.com/71922541/207506201-253e3590-aa18-4138-b6ba-e6c7dbf8d320.png)
 
+![image](https://user-images.githubusercontent.com/71922541/207506239-66b940eb-5257-4451-86dc-9db2b97ee184.png)
 
 
 
