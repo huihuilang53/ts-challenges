@@ -8,27 +8,9 @@ https://github.com/huihuilang53/type-challenges
 刷题记录：
 
 
+![image](https://user-images.githubusercontent.com/71922541/207505952-a33468bf-c3e5-4ab1-b627-482167b51841.png)
 
 
-1. as const 
-断言
-将对象强制转换为 const 时，属性标记为只读，无法修改。
-将数组标记为只读元组，或转为字面量
-const person = {
-  name: 'O.O',
-  age: 20
-} as const
-
-person.name = 'D.O' // TypeError
-
-const arr = ['O.O', 20] as const
-
-arr[0] = 'D.O' // TypeError
-
-
-
-
-![image](https://user-images.githubusercontent.com/71922541/207505878-04c068be-1f20-430e-8cb4-45dbe1d79dc7.png)
 
 
 
