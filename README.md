@@ -1,17 +1,32 @@
 ﻿# ts类型体操刷题mark
 > typescript类型体操 
 
-建议初学者先学完基础的ts语法，然后取看完神光的TypeScript 类型体操通关秘籍小册，再开刷类型体操
+建议初学者先学完基础的ts语法，然后去看完神光的TypeScript 类型体操通关秘籍小册，再开刷类型体操
 部分体操题型来源：
+30kstars项目github地址：
 https://github.com/huihuilang53/type-challenges
+gitee地址(github要翻墙，没翻墙的同学可以去这个链接)：
+https://gitee.com/JiegangWu/type-challenges#/JiegangWu/type-challenges/blob/main/questions/00009-medium-deep-readonly/README.zh-CN.md
+
+体操广场：
+https://www.typescriptlang.org/play
 
 刷题记录：
+- [实现Promise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
+- [实现Promise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
+- [实现Promise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
+- [实现Promise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
+- [实现Promise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
+- [实现Promise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
+- [实现Promise.all](https://github.com/Sunny-117/Front-end-handwritten-question/issues/1)
+
 
 
 
 
 ## 语法与踩坑总结：
-个人学习ts中碰到的踩坑点，希望能对大家有所帮助
+> 个人学习ts中碰到的踩坑点，希望能对大家有所帮助
+
 ![image](https://user-images.githubusercontent.com/71922541/207505952-a33468bf-c3e5-4ab1-b627-482167b51841.png)
 
 ![image](https://user-images.githubusercontent.com/71922541/207506153-a25be527-1b8f-460a-84a8-158755cca3c9.png)
