@@ -13,7 +13,7 @@ https://gitee.com/JiegangWu/type-challenges#/JiegangWu/type-challenges/blob/main
 https://www.typescriptlang.org/play
 
 刷题记录：
-###六个套路
+### 六个套路
 - [套路1-模式匹配提取](https://github.com/huihuilang53/ts-challenges/issues/1)
 - [套路2-重构造做变化](https://github.com/huihuilang53/ts-challenges/issues/2)
 - [套路3-递归复用做循环](https://github.com/huihuilang53/ts-challenges/issues/3)
