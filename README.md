@@ -5,7 +5,7 @@
 
 部分体操题型来源：
 * 30kstars项目github地址：
-https://github.com/huihuilang53/type-challenges
+https://github.com/type-challenges/type-challenges
 * gitee地址(github要翻墙，没翻墙的同学可以去这个链接)：
 https://gitee.com/JiegangWu/type-challenges#/JiegangWu/type-challenges/blob/main/questions/00009-medium-deep-readonly/README.zh-CN.md
 
