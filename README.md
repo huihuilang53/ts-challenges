@@ -37,10 +37,10 @@ https://www.typescriptlang.org/play
 - [readonly2](https://github.com/huihuilang53/ts-challenges/issues/19)
 - [Omit](https://github.com/huihuilang53/ts-challenges/issues/20)
 - [Deepreadonly](https://github.com/huihuilang53/ts-challenges/issues/21)
-
+- [元组转联合类型](https://github.com/huihuilang53/ts-challenges/issues/22)
 
 <!-- - [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
-- [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
+
 - [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
 - [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
 - [Myawait](https://github.com/huihuilang53/ts-challenges/issues/7)
