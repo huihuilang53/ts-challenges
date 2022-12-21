@@ -55,7 +55,6 @@ https://www.typescriptlang.org/play
 
 
 
-
 ## 语法与踩坑总结：
 > 个人学习ts中碰到的踩坑点，希望能对大家有所帮助
 
